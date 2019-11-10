@@ -814,3 +814,10 @@ Processing by Rails::WelcomeController#index as HTML
 Completed 200 OK in 40ms (Views: 20.6ms | ActiveRecord: 0.0ms)
 
 
+Started GET "/about" for 24.146.147.196 at 2019-11-10 13:35:48 +0000
+Processing by StaticController#about as HTML
+  Rendering static/about.html.erb
+  Rendered static/about.html.erb (5.0ms)
+Completed 200 OK in 38ms (Views: 19.8ms | ActiveRecord: 0.0ms)
+
+
